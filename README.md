@@ -15,3 +15,5 @@ FavMusic is a web application which allows users to register and login to browse
 <b>Demo:</b>
 <a href="https://favmusic-now.herokuapp.com/"><img src="favmusic.gif" title="Click to try!"></a>
 
+<p>Note: If the app is opened outside of the United States, the user may experience longer loading time due to Clear DB's region restrictions.</p>
+
